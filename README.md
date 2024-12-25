@@ -1,4 +1,4 @@
-# Expense Tracker - ASP.NET Core MVC Application
+# Finance Minder Sage - ASP.NET Core MVC Application
 
 ## Overview
 This project is an **Expense Tracker** application developed using **ASP.NET Core MVC**, **Syncfusion**, **Bootstrap** and **MySQL**. It enables users to manage and track their daily, weekly, and monthly expenses with an intuitive and feature-rich interface. The application focuses on simplicity, usability, and data visualization to help users stay on top of their financial goals.
@@ -28,11 +28,11 @@ This project is an **Expense Tracker** application developed using **ASP.NET Cor
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/farhan0001/Expense-Tracker.git
+   git clone https://github.com/farhan0001/Finance-Minder-Sage.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd expense-tracker
+   cd finance-minder-sage
    ```
 3. Update the `appsettings.json` file with your SQL Server connection string and SyncFusion License Key.
 4. Apply database migrations:
